@@ -235,7 +235,6 @@ public class MainDictionary {
 	         }
 	         
 	    }catch(Exception e){
-	    	e.printStackTrace();
 	        System.out.println("Archivo no existe");
 	         
 	         
